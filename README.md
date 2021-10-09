@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there 👋
+### Belongs
+- 보안 연구단체 Dropper Lab Team Leader
+- KITRI Best of the Best 10기 취약점 분석 트랙 교육생
+
+## Github Stats
+![Joon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongjy0317&count_private=true)
+
 
 <!--
 **jeongjy0317/jeongjy0317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

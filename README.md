@@ -1,7 +1,6 @@
 ## Hi there 👋
-### Belongs
-- 보안 연구단체 Dropper Lab Team Leader
-- KITRI Best of the Best 10기 취약점 분석 트랙 교육생
+### Interested?
+Why don't you visit my [Portfolio (resume)](https://jeongjy.kr)?
 
 ## Github Stats
 ![Joon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongjy0317&count_private=true)

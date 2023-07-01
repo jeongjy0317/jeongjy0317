@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### Interested?
-Why don't you visit my [Portfolio (resume)](https://jeongjy.kr)?
+Why don't you visit my [Portfolio (resume)](https://zer0base.me/)?
 
 ## Github Stats
 ![Joon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongjy0317&count_private=true)
